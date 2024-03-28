@@ -1,0 +1,6 @@
+@Redis.Net8._0_HostAddress = http://localhost:5259
+
+GET {{Redis.Net8._0_HostAddress}}/sheet/
+Accept: application/json
+
+###
